@@ -2,7 +2,7 @@
 
 <h3 align="center">Full-Stack developer? No thanks. I prefer the title of "Master Code Wizard"</h3>
 
-<h5 align="center">*thunder crackles in the distance* ⚡</h5>
+<h5 align="center">⚡ *thunder crackles in the distance* ⚡</h5>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=metrofibre-frederickve&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
